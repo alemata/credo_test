@@ -45,6 +45,6 @@ defmodule AnotherFile do
 
 
   def test do
-    IO.inspect "this is a test for credo"
+    IO.inspect "this is a test for credo and"
   end
 end
