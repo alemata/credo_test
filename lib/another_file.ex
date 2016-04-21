@@ -46,5 +46,6 @@ defmodule AnotherFile do
 
   def test do
     IO.inspect "this is a test for credo and"
+    require IEx; IEx.pry
   end
 end
