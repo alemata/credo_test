@@ -73,7 +73,6 @@
         {Credo.Check.Refactor.UnlessWithElse},
 
         {Credo.Check.Warning.IExPry},
-        # {Credo.Check.Warning.IoInspect},
         {Credo.Check.Warning.NameRedeclarationByAssignment},
         {Credo.Check.Warning.NameRedeclarationByCase},
         {Credo.Check.Warning.NameRedeclarationByDef},
