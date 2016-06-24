@@ -1,4 +1,5 @@
 defmodule PhoenixCourse.UserControllerTest do
+  @moduledoc false
   use PhoenixCourse.ConnCase
   alias PhoenixCourse.User
 
